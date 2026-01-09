@@ -94,10 +94,9 @@
                     <p> <span> Address : </span> Uthiramer thaluk, Kancheepuram dist.</p>
                 </div>
             </div>
-            <a href="https://docs.google.com/document/d/1hvzM860T-qFDAtrlZTIyUZBfWZOFzB7l/edit?usp=sharing&ouid=106832468375641583034&rtpof=true&sd=true" class="btn">download CV</a>
-        </div>
-
-    </div>
+        
+</div>
+ </div>
 
 </section>
 
@@ -161,8 +160,8 @@
             <div class="column left">
                 <div class="text">My creative skills & experiences.</div>
                 <h1> I have basic knowledge of programming languages like HTML, CSS, JavaScript,reactjs,java. Also I have ability to learn new things and believe in creativity. I have work on the project web developer. The soft skills include critical thinking, communication, and project and time management.</h1>
-                <a href="https://medium.com/@poonamjagtap0011">Read more</a>
-            </div>
+        
+ </div>
             <div class="column right">
                 <div class="bars">
                     <div class="info">
@@ -309,14 +308,7 @@
         <div class="social-footer">
         <div class="social-footer-icons">
           <ul class="menu simple">
-            <li><a href="https://github.com/jagtappoonam"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/poonamjagtap"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            <li><a href="https://medium.com/@poonamjagtap0011"><i class="fa fa-medium" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.facebook.com/poonam.jagtap.167189"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.instagram.com/poonam_.jagtap"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li><a href="https://t.me/Poonamjagtap16"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/PoonamJagtap15"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-           
+            
   </ul>
         </div>
         </div>
@@ -348,7 +340,7 @@
 
 <!-- footer section  -->
 
-<div class="footer"> created by <span> Ms.Poonam Jagtap </span> | all rights reserved!
+<div class="footer"> created by <span>Ms.Delfina Masarallo M</span> | all rights reserved!
 </div>
   
 
