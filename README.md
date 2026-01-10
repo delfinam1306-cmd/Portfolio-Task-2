@@ -283,14 +283,7 @@
             <div class="card">
                 <div class="box">
                     <img src="images/saru.jpeg" alt="">
-                    <div class="text"><b>Sarika Dongre</b></div>
-                    <h2>MIT College Of Aurangabad</h2>
-                </div>
-        </div>
-    </div>
-</section>
-
-
+                
 <!-- contact section starts  -->
 
 <section class="contact" id="contact">
