@@ -1,4 +1,4 @@
-# Portfolio-Task-2
+8# Portfolio-Task-2
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,7 +52,7 @@
   <div class="content">
         <img class="tilt" src="images/passport pic.jpg" alt="">
         <h3>Delfina<span>Masarallo M</span> </h3>
-        <p> i am a <span class="typing-text">web developer </span> </p>
+        <p> I am a <span class="typing-text">web developer </span> </p>
         <a href="#about" class="btn">about me</a>
     </div>
 
